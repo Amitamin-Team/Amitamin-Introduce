@@ -17,10 +17,10 @@
 - **기획:** 2023년
 - **개발:** 2024년
 
+
 <br>
 
-
-## 🗂️ 사용 스택
+## 🗂️ Tech Stack 
 
 | 단계          | 사용 기술                                                                                                  | 설명                                                                                                           |
 | ------------- | ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
@@ -33,7 +33,31 @@
 
 
 
-<br />
+
+<br>
+
+## 📱 앱 다운로드
+
+- [아미타민 앱 다운로드 링크 ios](https://apps.apple.com/kr/app/amitamin/id6677036594)
+
+<br>
+
+## 📸 앱 화면 미리보기
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/db57855e-a24c-46a6-aa1f-8da91ce7fa97" alt="화면 1" width="30%" />
+  <img src="https://github.com/user-attachments/assets/766f5a31-84f8-4bbd-bb3f-026a0476a1a5" alt="화면 2" width="30%" />
+  <img src="https://github.com/user-attachments/assets/0da9a0ac-bf2d-4ed1-bf94-44614c870068" alt="화면 3" width="30%" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/446980b9-8e0a-4654-abb9-3303f001ec79" alt="화면 4" width="30%" />
+  <img src="https://github.com/user-attachments/assets/100e59a3-4ac9-49b9-8ebe-3325978027b2" alt="화면 5" width="30%" />
+</div>
+
+<br>
+
+
 
 ## 🧑‍🧑 팀원 소개
 |                                                                                    팀원                                                                                    |          역할          | <div align="center">개발 내용<div>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
@@ -48,3 +72,7 @@
 | <a href="https://github.com/hjhyun98" target="_blank"><img src="https://avatars.githubusercontent.com/u/110337559?v=4" width="64px" alt="프로필" /><br/><b>hjhyun98</b></a> | <b>Back-end (FastAPI)</b><br /> | - 회원가입 이메일 인증 API 작업<br />- 비밀번호 찾기 API 작업<br />
 | <a href="https://github.com/HeeSeok-Kwon" target="_blank"><img src="https://avatars.githubusercontent.com/u/80610295?v=4" width="64px" alt="프로필" /><br/><b>HeeSeok-Kwon</b></a> | <b>Front-end</b><br /> | - 앱 프로젝트 구조 설정<br/> - API 연동 (Dio, retrofit)<br /> - 화면 작업(회원가입, 로그인, 홈, 마이)<br /> - DB 설계<br /> - 각종 앱 관련 이슈 처리<br /> - 안드로이드 배포<br />           
 | <a href="https://github.com/thdthdYi" target="_blank"><img src="https://avatars.githubusercontent.com/u/130949807?v=4" width="64px" alt="프로필" /><br/><b>thdthdYi</b></a> | <b>Front-end</b><br /> | - 앱 프로젝트 구조 설정 <br /> - API 연동 <br /> - 화면 작업(튜토리얼, 분석)              
+
+
+
+
