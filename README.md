@@ -2,10 +2,11 @@
 <div align="center">
  <!-- <img width="254" alt="Amitamin Logo" src="https://github.com/user-attachments/assets/7709abf9-2252-4866-9940-00ad6515a76b"> -->
 
- <img width="254" alt="Amitamin Logo" src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/06/2b/4e062b72-a7d8-d33a-d8e6-5d2ef26da4a4/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/460x0w.webp" style="border-radius:10px;">
+ <img width="254" alt="Amitamin Logo" src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/06/2b/4e062b72-a7d8-d33a-d8e6-5d2ef26da4a4/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/460x0w.webp" style="border-radius:10%;">
 
 <!-- <img width="254" alt="Amitamin Logo" src="https://play-lh.googleusercontent.com/hHSz_9J8dnayklFSfgZvzHmpGeRNl8SshES7R8z0hSJVcx8e4HNtuzYvbCnaic6LgQ=w480-h960-rw" style="background-color:white; border-radius:10px;"> -->
 
+<br>
 <br>
 
 <!-- apple app store 링크 -->
