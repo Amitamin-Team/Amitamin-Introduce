@@ -1,18 +1,30 @@
 # Amitamin Team
 <div align="center">
- <img width="254" alt="Amitamin Logo" src="https://github.com/user-attachments/assets/7709abf9-2252-4866-9940-00ad6515a76b">
+ <!-- <img width="254" alt="Amitamin Logo" src="https://github.com/user-attachments/assets/7709abf9-2252-4866-9940-00ad6515a76b"> -->
+
+ <img width="254" alt="Amitamin Logo" src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/06/2b/4e062b72-a7d8-d33a-d8e6-5d2ef26da4a4/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/460x0w.webp" style="border-radius:10px;">
+
+<!-- <img width="254" alt="Amitamin Logo" src="https://play-lh.googleusercontent.com/hHSz_9J8dnayklFSfgZvzHmpGeRNl8SshES7R8z0hSJVcx8e4HNtuzYvbCnaic6LgQ=w480-h960-rw" style="background-color:white; border-radius:10px;"> -->
 
 <br>
 
+<!-- apple app store 링크 -->
 <a href="https://apps.apple.com/kr/app/amitamin/id6677036594">
-    <img src="https://img.shields.io/badge/App%20Store-Download-blue?style=for-the-badge&logo=apple&logoColor=white" alt="Download on the App Store" />
+    <img src="https://img.shields.io/badge/App%20Store-Download-blue?style=for-the-badge&logo=apple&logoColor=white" alt="Download from the App Store" />
 </a>
-<img src="https://img.shields.io/badge/Version-1.0.0-brightgreen?style=for-the-badge" alt="App Version 1.0.0" />
+<br />
+<!-- google play store 링크 -->
+<a href="https://play.google.com/store/apps/details?id=com.amitamin.amitamin_frontend">
+    <img src="https://img.shields.io/badge/Google%20Play%20Store-Download-brightgreen?style=for-the-badge&logo=googleplay&logoColor=white" alt="Download from the Google Play Store" />
+</a>
+
+<!-- <img src="https://img.shields.io/badge/Version-1.0.0-brightgreen?style=for-the-badge" alt="App Version 1.0.0" /> -->
 </div>
 
 <br>
+<br>
 
-<div align="center">
+<div align="left">
     
 # Fatigue Management App for Cancer Survivors
     
@@ -25,12 +37,25 @@
 
 <br>
 
+## 📲 Download
+<div align="left">
+
+**🔗Apple App Store 다운로드**
+<br />
+https://apps.apple.com/kr/app/amitamin/id6677036594
+
+**🔗Google Play Store 다운로드**
+<br />
+https://play.google.com/store/apps/details?id=com.amitamin.amitamin_frontend
+</div>
+
+<br>
+
 ## 📸 Preview
 
 <div align="center">
 <img width="45%" alt="image" src="https://github.com/user-attachments/assets/d5a55abc-61f1-48a8-8e1d-69afffb3a66b">
-<img width="45%" alt="image" src="https://github.com/user-attachments/assets/ffa1c917-1db2-4895-a948-79e28742cfda">
-
+<img width="44.3%" alt="image" src="https://github.com/user-attachments/assets/ffa1c917-1db2-4895-a948-79e28742cfda">
 </div>
 
 <br>
