@@ -113,7 +113,8 @@ https://play.google.com/store/apps/details?id=com.amitamin.amitamin_frontend
 | <a href="https://github.com/jarammm" target="_blank"><img src="https://avatars.githubusercontent.com/u/90924434?v=4" width="64px" alt="프로필" /><br/><b>jarammm</b></a> | <b>인프라 · Back-end (FastAPI)</b><br /> | - 설문지 유형 API 작업<br />- 설문지 내용 입력 API 작업<br />- 설문지 결과 API 작업<br />- 설문 이력 API 작업<br />- 서버 배포<br />
 | <a href="https://github.com/hjhyun98" target="_blank"><img src="https://avatars.githubusercontent.com/u/110337559?v=4" width="64px" alt="프로필" /><br/><b>hjhyun98</b></a> | <b>Back-end (FastAPI)</b><br /> | - 회원가입 이메일 인증 API 작업<br />- 비밀번호 찾기 API 작업<br />
 | <a href="https://github.com/HeeSeok-Kwon" target="_blank"><img src="https://avatars.githubusercontent.com/u/80610295?v=4" width="64px" alt="프로필" /><br/><b>HeeSeok-Kwon</b></a> | <b>Front-end</b><br /> | - 앱 프로젝트 구조 설정<br/> - API 연동 (Dio, retrofit)<br /> - 공통 함수 및 위젯 생성<br /> - 화면 작업 (회원가입, 로그인, 홈, 분석, 마이페이지, 설문조사, 피로도, 프로필 편집, 비밀번호 찾기, 비밀번호 변경)<br /> - DB 설계<br /> - 각종 앱 관련 이슈 처리<br /> - 안드로이드 배포<br />           
-| <a href="https://github.com/thdthdYi" target="_blank"><img src="https://avatars.githubusercontent.com/u/130949807?v=4" width="64px" alt="프로필" /><br/><b>thdthdYi</b></a> | <b>Front-end</b><br /> | - 앱 프로젝트 구조 설정 <br /> - API 연동 <br /> - 화면 작업(튜토리얼, 분석)              
+| <a href="https://github.com/thdthdYi" target="_blank"><img src="https://avatars.githubusercontent.com/u/130949807?v=4" width="64px" alt="프로필" /><br/><b>thdthdYi</b></a> | <b>Front-end</b><br /> | - 앱 프로젝트 구조 설정 <br /> - API 연동 <br /> - 화면 작업(튜토리얼, 분석)<br />  
+| <a href="https://github.com/estelleisdabest" target="_blank"><img src="https://avatars.githubusercontent.com/u/87319308?v=4" width="64px" alt="프로필" /><br/><b>thdthdYi</b></a> | <b>서비스 기획</b><br /> | - 기능 명세서 작성 <br /> - UI/UX 요구사항 정의 <br />
 
 
 
